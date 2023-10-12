@@ -1,2 +1,10 @@
 Salsa para Pizza:
-Ingredients: A large onion, a glass of tomato sauce, two medium tomatoes, a large bell pepper, condiments to taste.
+Ingredients: 
+- A large onion, finely chopped
+- A glass of tomato sauce
+- Two medium tomatoes, diced
+- A large bell pepper, diced
+- Condiments to taste (salt, pepper, oregano, basil)
+- 2 cloves of garlic, minced
+- 1 teaspoon of sugar (optional)
+- 1 tablespoon of olive oil
