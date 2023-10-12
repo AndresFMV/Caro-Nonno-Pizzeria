@@ -1,3 +1,9 @@
 Pizza 3 Quesos al Disco:
-This is a delicious three-cheese pizza recipe.
-
+Ingredients: 
+- Pizza dough
+- 100 grams of mozzarella cheese
+- 100 grams of cheddar cheese
+- 100 grams of gorgonzola cheese
+- A handful of fresh basil leaves
+- 2 cloves of garlic, minced
+- Extra virgin olive oil
